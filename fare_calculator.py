@@ -1,5 +1,5 @@
 # Travel Fare Calculator
-# With input validation code
+# With Input Validation Code
 FARE_RATE = 14
 
 name = input("Enter passenger name: ")
