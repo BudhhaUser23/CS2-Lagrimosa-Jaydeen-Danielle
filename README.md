@@ -1,7 +1,7 @@
 # Fare Calculator with Input Validation
 
 ## Description
-This program calculates for the fare of a person or a group of people using the distance and the number of people and also uses input validation to prevent errors.
+This program calculates for the fare of a person or a group of people using the distance and the number of people and unlike v1, v2 also uses input validation to prevent errors.
 
 ## Version 1 - Original code without input validation
 - Input: Accepts the passenger's name, the distance they are gonna travel, and the number of passengers.
